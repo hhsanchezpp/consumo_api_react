@@ -1,0 +1,15 @@
+.hero {
+	height: 30rem;
+	background: linear-gradient(to left, rgba(0, 0, 0, 0.144), rgba(0, 0, 0, 0.705)), url("https://images.unsplash.com/photo-1551958219-acbc608c6377?auto=format&fit=crop&q=80&w=1740&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+	background-position: 0rem -60rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.logo {
+	color: white;
+	font-size: 4rem;
+}
+.logo span {
+	color: rgb(210, 66, 30);
+}

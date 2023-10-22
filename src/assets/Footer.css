@@ -1,0 +1,27 @@
+footer {
+	min-height: 10rem;
+	background-color: rgb(154, 157, 160);
+	min-width: 100vw;
+	margin-top: 10px;
+}
+
+.hero1 {
+	height: 60rem;
+	display: flex;
+	background: linear-gradient(to left, rgba(0, 0, 0, 0.144), rgba(0, 0, 0, 0.705)), url("https://images.unsplash.com/photo-1629217855633-79a6925d6c47?auto=format&fit=crop&q=80&w=1740&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+	background-position: 0rem -60rem;
+	align-items: center;
+	justify-content: center;
+}
+.hero1 a {
+	color: white;
+	font-size: 5rem;
+}
+.hero1 p {
+	color: white;
+	font-size: 2rem;
+}
+.hero1 h4 {
+	color: rgb(221, 12, 12);
+	font-size: 3rem;
+}

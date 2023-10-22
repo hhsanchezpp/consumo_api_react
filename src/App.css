@@ -1,0 +1,15 @@
+html {
+	font-size: 62%;
+	scroll-behavior: smooth;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+img {
+	max-width: 100%;
+	display: block;
+}
+
+
+

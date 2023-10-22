@@ -1,0 +1,29 @@
+.grid_main {
+	display: grid;
+	justify-items: center;
+    gap: 3rem;
+}
+@media (min-width: 50px) {
+	.grid_main {
+		grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+	}
+}
+.card{
+    max-width: 60rem;
+    padding: 1rem;
+    background-color: rgba(241, 238, 144, 0.801);
+    border-radius: 2rem;
+}
+.img_container img {
+    border-radius: 2rem;
+}
+.card_body_container {
+    padding: 1rem 2rem;
+}
+p {
+    font-weight: bolder;
+    font-size: 2rem;
+}
+span {
+    font-weight: 400;
+}
